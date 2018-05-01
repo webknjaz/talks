@@ -2,13 +2,9 @@
 title: Open Source <s>in</s> is my life
 layout: slide
 ---
-<section data-markdown data-background-image="{{ "/images/bg/os-sprints-banner.jpeg" | prepend: site.baseurl }}" style="background-color: rgb(8, 31, 39);"><script type="text/template">
+<section data-markdown data-background-image="{{ "/images/bg/os-sprints-banner.jpeg" | prepend: site.baseurl }}"><script type="text/template"></script></section>
 
-  <br>
-
-</script></section>
-
-<section data-markdown style="background-color: rgb(8, 31, 39);"><script type="text/template">
+<section data-markdown data-background-color="rgb(8, 31, 39)"><script type="text/template">
   ## Open Source <s>in </s>is my life
   ## (Open Source Sprints intro)
 
