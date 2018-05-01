@@ -1,11 +1,12 @@
 ---
 title: Open Source <s>in</s> is my life
 layout: slide
+theme: night
 ---
 <section data-markdown data-background-image="{{ "/images/bg/os-sprints-banner.jpeg" | prepend: site.baseurl }}"><script type="text/template"></script></section>
 
 <section data-markdown data-background-color="rgb(8, 31, 39)"><script type="text/template">
-  ## Open Source <s>in </s>is my life
+  ## {{ page.title }}
   ## (Open Source Sprints intro)
 
   <br><br><br><br><br><br><br><br><br><br>
