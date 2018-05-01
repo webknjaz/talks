@@ -32,6 +32,19 @@ theme: night
 </script></section>
 
 <section data-markdown><script type="text/template">
+  ## Schedule
+  <dl>
+    <dt>11:20‒12:00 — networking w/ contributors/maintainers</dt>
+    <dt>12:00‒12:30 — projects announcements</dt>
+    <dt>12:30‒12:50 — @vixentael sharing her FOSS experience</dt>
+    <dt>12:50‒13:30 — start hacking</dt>
+    <dt>13:30‒14:00 — 🍕 lunch</dt>
+    <dt>14:00‒17:30 — continue hacking</dt>
+    <dt>17:30‒18:00 — closing show off</dt>
+  </dl>
+</script></section>
+
+<section data-markdown><script type="text/template">
 
 ## Sviatoslav Sydorenko
 ### @webknjaz at Keybase, Twitter, GitHub etc.
