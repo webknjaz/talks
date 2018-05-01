@@ -32,6 +32,22 @@ theme: night
 </script></section>
 
 <section data-markdown><script type="text/template">
+  #### what is an open source?
+</script></section>
+
+<section data-markdown><script type="text/template">
+  #### open culture
+</script></section>
+
+<section data-markdown><script type="text/template">
+  #### perks
+</script></section>
+
+<section data-markdown><script type="text/template">
+  #### what to do
+</script></section>
+
+<section data-markdown><script type="text/template">
   ## Schedule
   <dl>
     <dt>11:20‒12:00 — networking w/ contributors/maintainers</dt>
