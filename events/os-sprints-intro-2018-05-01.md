@@ -1,5 +1,5 @@
 ---
-title: Open Source <s>in</s> is my life
+title: Open Source <s>in </s>is my life
 layout: slide
 theme: night
 ---
@@ -12,7 +12,7 @@ theme: night
   ## {{ page.title }}
   ## (Open Source Sprints intro)
 
-  <br><br>
+  <br>
 
   ### May 1, 2018
 </script></section>
