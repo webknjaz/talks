@@ -22,7 +22,7 @@ theme: night
       {% include img.html src="logos/5fc7fb4c2357e47359b6d0f58850aa05_360_360.jpeg" width="90%" height="50%" %}
     </div>
     <div class="column">
-      <h3>Sviatoslav Sydorenko</h3>
+      <h4 style="margin: 0;">Sviatoslav Sydorenko</h4>
       <ul>
         <li>Software engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
         <li>Open Source Developer, Contributor and Maintainer</li>
