@@ -24,8 +24,8 @@ theme: night
     <div class="column">
       <h4 style="margin: 0;">Sviatoslav Sydorenko</h4>
       <ul>
-        <li>Software engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-        <li>Open Source Developer, Contributor and Maintainer</li>
+        <li>Senior Software Engineer in Ansible Core at Red Hat</li>
+        <li>Open Source Developer, Contributor, Maintainer, Mentor</li>
       </ul>
     </div>
   </div>
