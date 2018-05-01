@@ -19,7 +19,7 @@ theme: night
 
   <div class="row">
     <div class="column" width="50%" style="display: inline-block">
-      {% include img.html src="logos/5fc7fb4c2357e47359b6d0f58850aa05_360_360.jpeg" width="90%" %}
+      {% include img.html src="logos/5fc7fb4c2357e47359b6d0f58850aa05_360_360.jpeg" width="90%" height="50%" %}
     </div>
     <div class="column">
       <h3>Sviatoslav Sydorenko</h3>
