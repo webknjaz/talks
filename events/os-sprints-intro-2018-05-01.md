@@ -18,11 +18,10 @@ theme: night
   ## Who am I ?
 
   <div class="row">
-    <div class="column">
+    <div class="column" width="50%" style="display: inline-block">
       {% include img.html src="logos/5fc7fb4c2357e47359b6d0f58850aa05_360_360.jpeg" width="90%" %}
     </div>
     <div class="column">
-      <br><br><br><br>
       <h3>Sviatoslav Sydorenko</h3>
       <ul>
         <li>Software engineer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
